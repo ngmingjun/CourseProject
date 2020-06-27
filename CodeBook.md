@@ -1,7 +1,3 @@
----
-title: "Getting and Cleaning Data Course Project"
-output: html_document
----
 ## Data Introduction  
 * The data was acquired from the **UCI HAR Dataset**. The data used for this project is obtained from 6 .txt files, namely x_train.txt, y_train.txt, subject_train.txt, x_test.txt, y_test.txt and subject_test.txt.  
 * The feature.txt file contains the names of each variable, which correspond to each column in x_train.txt and x_test.txt. Explanation of each feature is available in features.info.txt.  
